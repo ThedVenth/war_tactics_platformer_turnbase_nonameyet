@@ -21,5 +21,7 @@ public class Tile : MonoBehaviour
 
         // resize the tile according to size
         transform.localScale = new Vector3(tileSize, 1, tileSize);
+
+        //tesr
     }
 }
